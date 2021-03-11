@@ -1,2 +1,2 @@
-# coursera-machine-learning-stanford-python-solution
-This is the solutions to the assignments on Andrew Ng's machine learning stanford university course on Coursera.
+# coursera-machine-learning-solutions-python
+A repository with solutions to the assignments on Andrew Ng's machine learning MOOC on Coursera. The credits for template for the python submission goes to @dibgerge[https://github.com/dibgerge]
